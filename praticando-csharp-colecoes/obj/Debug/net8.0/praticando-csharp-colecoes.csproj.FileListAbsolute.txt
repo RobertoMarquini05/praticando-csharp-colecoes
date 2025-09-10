@@ -1,0 +1,14 @@
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\bin\Debug\net8.0\praticando-csharp-colecoes.exe
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\bin\Debug\net8.0\praticando-csharp-colecoes.deps.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\bin\Debug\net8.0\praticando-csharp-colecoes.runtimeconfig.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\bin\Debug\net8.0\praticando-csharp-colecoes.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\bin\Debug\net8.0\praticando-csharp-colecoes.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\obj\Debug\net8.0\praticando-csharp-colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\obj\Debug\net8.0\praticando-csharp-colecoes.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\obj\Debug\net8.0\praticando-csharp-colecoes.AssemblyInfo.cs
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\obj\Debug\net8.0\praticando-csharp-colecoes.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\obj\Debug\net8.0\praticando-csharp-colecoes.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\obj\Debug\net8.0\refint\praticando-csharp-colecoes.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\obj\Debug\net8.0\praticando-csharp-colecoes.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\obj\Debug\net8.0\praticando-csharp-colecoes.genruntimeconfig.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-colecoes\praticando-csharp-colecoes\obj\Debug\net8.0\ref\praticando-csharp-colecoes.dll
